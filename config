@@ -34,6 +34,7 @@ bindsym $mod+Return exec terminator
 
 # applications
 bindsym Ctrl+$mod+w exec chromium
+bindsym Ctrl+$mod+e exec atom
 
 # kill focused window
 bindsym $mod+Shift+q kill
