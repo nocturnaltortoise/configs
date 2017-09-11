@@ -1,1 +1,1 @@
-while true; do sleep 5s; echo $(acpi) $(date); done;
+while true; do sleep 5s; echo $(acpi) $(date "+%A %d %B %Y %H:%M"); done;
